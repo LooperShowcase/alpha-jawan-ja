@@ -1,0 +1,49 @@
+body {
+  font-family: "Moo Lah Lah", cursive;
+}
+h1 {
+  font-family: "Courier New", Courier, monospace;
+}
+#div_1 {
+  background-color: rgb(170, 177, 179);
+}
+table {
+  font-size: xx-large;
+}
+h1 {
+  font-family: "https://fonts.googleapis.com/css2?family=Moo+Lah+Lah&display=swap";
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(32, 1, 12);
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: rgb(102, 92, 92);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: rgb(255, 255, 255);
+}
+#footer
+{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(29, 24, 24);
+  color: rgb(26, 15, 15);
+  text-align: center;
+}
